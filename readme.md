@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://www.ayetstudios.com/wp-content/uploads/2017/05/ayetstudios_logo_03-200x49-1.png" width="110" height="110"/>
+  <img src="https://www.ayetstudios.com/wp-content/uploads/2017/05/ayetstudios_logo_03-200x49-1.png" width="300" height="100"/>
   <br/>
   <br/>
   <br/>
 </div>
 <br/>
 <br/>
+
 # AyeT Studios React Native Example App
+
 <br/>
 
 Simple react native android example application using [ayetstudios-react-native-sdk](https://github.com/ayetstudios/ayetstudios-react-native-sdk) package.
