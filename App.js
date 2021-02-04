@@ -57,7 +57,6 @@ const App = () => {
                       AyetSDK.isInitialized((isInitialised) => {
                         if(isInitialised){
                           AyetSDK.getNativeOffers("react_native_feed_example",(nativeFeed)=> {
-                            console.log('native offers =>'+nativeFeed);
                             setOffers(nativeFeed)
                         });
                       }});
